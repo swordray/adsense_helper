@@ -21,9 +21,7 @@ gem 'rails-adsense_helper'
 
     adsense_tag(client: 0000000000000000, slot: 1111111111, dimension: '336x280')
 
-## Contributors
-
-Special thanks to
+## Credits
 
 * http://www.ihaveu.com/home team
 * http://www.shuhai.org/ team
