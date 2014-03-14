@@ -23,7 +23,7 @@ gem 'rails-adsense_helper'
 
 ## Credits
 
-* Jianqiu Xiao @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
+* swordray @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
 
 ## License
 
