@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/adsense_helper.png)](http://badge.fury.io/rb/adsense_helper) [![Build Status](https://secure.travis-ci.org/swordray/adsense_helper.png?branch=master)](http://travis-ci.org/swordray/adsense_helper) [![Dependency Status](https://gemnasium.com/swordray/adsense_helper.png?travis)](https://gemnasium.com/swordray/adsense_helper) [![Code Climate](https://codeclimate.com/github/swordray/adsense_helper.png)](https://codeclimate.com/github/swordray/adsense_helper)
 
-Helper for Google Adsense Content
+Helper for Google Adsense code
 
 ## Requirements
 
