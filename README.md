@@ -24,7 +24,7 @@ adsense_tag(client: 0000000000000000, slot: 1111111111, dimension: '336x280')
 
 ## Credits
 
-* swordray @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
+* [swordray](https://github.com/swordray) @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
 
 ## License
 
