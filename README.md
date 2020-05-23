@@ -22,10 +22,6 @@ gem 'adsense_helper'
 adsense_tag(client: 0000000000000000, slot: 1111111111, dimension: '336x280')
 ```
 
-## Credits
-
-* [swordray](https://github.com/swordray) @[ihaveu](http://www.ihaveu.com/home) @[shuhai](http://tw.shuhai.org/) @[leaf](http://leaf.iacger.com)
-
 ## License
 
 Copyright © 2014 Jianqiu Xiao <swordray@gmail.com> under The [MIT License](http://opensource.org/licenses/MIT).
