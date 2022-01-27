@@ -22,6 +22,10 @@ gem 'adsense_helper'
 adsense_tag(client: 0000000000000000, slot: 1111111111, dimension: '336x280')
 ```
 
+## Sponsors
+
+* [BaiLu ShuYuan](https://bailushuyuan.org)
+
 ## License
 
 Copyright © 2014 Jianqiu Xiao <swordray@gmail.com> under The [MIT License](http://opensource.org/licenses/MIT).
